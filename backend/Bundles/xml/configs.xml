@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+  <config id="1">
+    <loc>Bundles</loc>
+    <lastmod>21-12-23 04:55:40</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1</priority>
+  </config>
+<config id="2"><loc>classes</loc><lastmod>21-12-23 04:55:40</lastmod><changefreq>never</changefreq><priority>1</priority></config><config id="3"><loc>config</loc><lastmod>21-12-23 04:55:40</lastmod><changefreq>never</changefreq><priority>1</priority></config><config id="4"><loc>css</loc><lastmod>21-12-23 04:55:40</lastmod><changefreq>never</changefreq><priority>1</priority></config><config id="5"><loc>images</loc><lastmod>21-12-23 04:55:40</lastmod><changefreq>never</changefreq><priority>1</priority></config><config id="6"><loc>js</loc><lastmod>21-12-23 04:55:40</lastmod><changefreq>never</changefreq><priority>1</priority></config><config id="7"><loc>modules</loc><lastmod>21-12-23 04:55:40</lastmod><changefreq>never</changefreq><priority>1</priority></config></configs>

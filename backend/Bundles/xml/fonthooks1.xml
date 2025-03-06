@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hooks>
+  <hook id="1">
+    <name>Header</name>
+    <title>Header</title>
+    <description>never</description>
+    <position>1</position>
+    <id_module>1</id_module>
+  </hook>
+<hook id="2"><name>Home</name><title>Home</title><description/><position>1</position><id_module>3</id_module></hook><hook id="3"><name>Nav</name><title>Nav</title><description/><position>1</position><id_module>2</id_module></hook><hook id="4"><name>About</name><title>About Us</title><description>History of the company</description><position>1</position><id_module>0</id_module></hook><hook id="5"><name>Product</name><title>Product</title><description>Article</description><position>1</position><id_module>0</id_module></hook><hook id="6"><name>Blog</name><title>Blog</title><description>Stock actually</description><position>1</position><id_module>0</id_module></hook><hook id="7"><name>Contact</name><title>Contact</title><description/><position>1</position><id_module>0</id_module></hook><hook id="8"><name>Register</name><title>Registration</title><description/><position>1</position><id_module>0</id_module></hook><hook id="9"><name>Login</name><title>Login</title><description>Quotation</description><position>1</position><id_module>0</id_module></hook><hook id="10"><name>CusChat</name><title>CusChat</title><description>CusChat</description><position>1</position><id_module>0</id_module></hook><hook id="11"><name>CusSpace</name><title>CusSpace</title><description>CusSpace</description><position>1</position><id_module>0</id_module></hook><hook id="12"><name>BankWir</name><title>BankWir</title><description>BankWir</description><position>1</position><id_module>0</id_module></hook></hooks>

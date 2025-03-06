@@ -1,0 +1,1 @@
+<?php use classes\Module as Module; class BankWire extends Module {    public static function hookBankWire($args)   {      $ret = "";      $ret.= "Hook: BankWire";      return $ret;   }} ?>

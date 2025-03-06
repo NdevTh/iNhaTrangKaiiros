@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categoriecompany>
+  <categoriecompan id="1">
+    <name>Service</name>
+    <description>Utilisateur sans limite</description>
+  </categoriecompan>
+<categoriecompan id="2"><name>Production</name><description>Limiter certain droit</description></categoriecompan></categoriecompany>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<taxs>
+  <tax id="1">
+    <id_tax>1</id_tax>
+    <id_lang>1</id_lang>
+    <id_state>1</id_state>
+    <id_zone>1</id_zone>
+    <name>TVA</name>
+    <rate>20</rate>
+  </tax>
+</taxs>

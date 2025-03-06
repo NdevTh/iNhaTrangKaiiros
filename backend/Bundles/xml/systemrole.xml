@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<systemrole>
+  <systemrol id="1">
+    <name>Adminstrator</name>
+    <description>Utilisateur sans limite</description>
+  </systemrol>
+<systemrol id="2"><name>Employee</name><description>Limiter certain droit</description></systemrol><systemrol id="3"><name>Customer</name><description>Limiter certain droit</description></systemrol><systemrol id="4"><name>Supplier</name><description>  Fournisseur 1</description></systemrol></systemrole>

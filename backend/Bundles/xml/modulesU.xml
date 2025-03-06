@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modules>
+  <module id="1">
+    <name>header</name>
+    <active>1</active>
+  </module>
+<module id="2"><name>nav</name><active>on</active></module><module id="3"><name>home</name><active>on</active></module></modules>

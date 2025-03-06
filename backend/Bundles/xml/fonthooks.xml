@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonthooks>
+  <fonthook id="1">
+    <name>header</name>
+    <title>Header</title>
+    <description>never</description>
+    <position>1</position>
+    <id_module>1</id_module>
+  </fonthook>
+<fonthook id="2"><name>home</name><title>Home</title><description>never</description><position>1</position><id_module>2</id_module></fonthook><fonthook id="3"><name>footer</name><title>Footer</title><description>never</description><position>1</position><id_module>3</id_module></fonthook></fonthooks>

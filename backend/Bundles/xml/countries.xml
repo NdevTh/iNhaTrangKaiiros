@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+  <countrie id="1">
+    <id_lang>1</id_lang>
+    <name>France</name>
+    <id_country>1</id_country>
+    <id_zone>1</id_zone>
+    <iso_code/>
+    <active>1</active>
+    <contains_states>1</contains_states>
+    <need_identification_number>1</need_identification_number>
+  </countrie>
+</countries>

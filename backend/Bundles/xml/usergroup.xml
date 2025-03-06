@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usergroup>
+  <usergrou id="1">
+    <name>Manager</name>
+    <description>Utilisateur sans limite</description>
+  </usergrou>
+<usergrou id="2"><name>Technicien</name><description>Limiter certain droit</description></usergrou><usergrou id="3"><name>Achat</name><description>Limiter certain droit</description></usergrou><usergrou id="4"><name>Livraison</name><description>Limiter certain droit</description></usergrou></usergroup>

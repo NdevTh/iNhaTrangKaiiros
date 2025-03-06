@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+  <tab id="1">
+    <name>contrat</name>
+    <id_parent>0</id_parent>
+    <url>contract</url>
+    <image/>
+    <position>1</position>
+    <group_user/>
+    <system_role>1</system_role>
+    <active>on</active>
+  </tab>
+<tab id="2"><name>Devis</name><id_parent>0</id_parent><url>quotation</url><image/><position>1</position><group_user/><system_role>1</system_role><active>on</active></tab><tab id="3"><name>Facture</name><id_parent>0</id_parent><url>invoice</url><image/><position>1</position><group_user/><system_role>1</system_role><active>on</active></tab><tab id="4"><name>BankWir</name><id_parent>0</id_parent><url>BankWir</url><image/><position>1</position><group_user/><system_role>1</system_role><active>on</active><user_group>0</user_group></tab></tabs>

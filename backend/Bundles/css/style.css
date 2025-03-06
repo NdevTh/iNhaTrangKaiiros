@@ -1,0 +1,186 @@
+/* UTILITIES */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: Arial;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+.bg-gray { background-color: gray; }
+/* Print */
+@media print {
+    @page {
+        size: A1|A4|A5 landscape; /* auto is default portrait; */
+    }
+}
+.header, .footer {
+  background-color: #ddd;
+}
+.container { overflow: auto; }
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+  width: 100%;
+}
+
+
+.hide { display: none; }
+.show { display: block; }
+.txt-left {
+  text-align: left;
+}
+.txt-center {
+  text-align: center;
+}
+.txt-right {
+  text-align: right;
+}
+.flt-left { float: left; }
+.flt-right { float: right; }
+.logo32x32 { padding: 5px; width:32px; height: 32px; border-radius: 50%; margin: 5px; }
+/* Table Style */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 2px solid #dfdfdf;
+  border-radius: 8px;
+}
+th { background-color: #C0C3C6; white-space: nowrap; padding: 1em; color: #ADAEAE; margin: 0px; }
+td { background-color: #F0F3F4; }
+tr:nth-child(odd) td{ background-color: #E0E3E6; }
+tr:hover td {background-color: #818181;}
+
+.tbl-ico32 { width: 32px; height: 32px; }
+.tbl-ico { width:10px; height: 15px; }
+.tbl-act { width: 100px; }
+.tbl-id { width: 50px; }
+.tbl-tools { width: 100%; }
+
+.sidebar {
+  height: 80%;
+  min-height: 50%;
+  width: 150px;
+  position: absolute;
+  left: 0;
+  top: 75px;
+  padding-top: 40px;
+  background-color: lightblue;
+  border-radius: 0 25px 0 0;
+}
+
+.sidebar a {
+  padding: 12px;
+  font-size: 1em;
+  text-decoration: none;
+  display: block;
+}
+.active { 
+  background: #fff; 
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.main {
+  margin-left: 150px;
+  font-size: 18px;
+  height: 80%;
+  min-height: 50%;
+  padding: 15px;
+}
+/* Form Style */
+.msg { border: 1px solid #ddd; padding: 8px; border-radius: 5px; margin: 8px 0; }
+fieldset { padding: 8px; }
+legend { margin-top:1em; margin-left: 25px; padding: 8px; background-color: #ddd; }
+.edge-rond { border-radius: 5px; }
+.groupform { border: 1px solid #ccc; background-color: gray; height: 50px;  width: 25%; float: left; }
+.groupfield { border: 1px solid #ccc; height: 50px; width: 75%; float: left; }
+label {
+  padding: 13px;
+  display: inline-block;
+}
+input[type=text], input[type=password],  select, textarea {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 4px;
+  resize: vertical;
+}
+input[type=checkbox]{
+  font-size: 2em;
+  margin: 13px 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+.btn , a.btn {
+  padding: 14px;
+  margin: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  cursor: pointer;
+}
+.btn-form { width: 10em; text-decoration: none; background-color: #F0F3F4; padding: .5em 1em; border-radius: 5px; text-align: center; }
+
+/* End Form Style */
+.txt-left { text-align: left; }
+.txt-center { text-align: center; }
+.txg-right { text-align: right; }
+.flt-left { float: left; }
+.flt-right { float: right; }
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+  
+  
+}
