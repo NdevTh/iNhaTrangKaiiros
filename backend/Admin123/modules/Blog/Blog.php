@@ -1,1 +1,0 @@
-<?php use classes\Module as Module; class Blog extends Module {    public static function hookBlog($args)   {      $ret = "";      $ret.= "Hook: Blog";      return $ret;   }} ?>

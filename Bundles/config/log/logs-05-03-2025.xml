@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logs-05-03-2025>
+  <logs-05-03-202 id="1">
+    <page>home</page>
+    <username>dev</username>
+    <log_time>05-03-2025 18:26:21</log_time>
+    <log_action>view</log_action>
+    <log_name>test</log_name>
+    <id_user>test</id_user>
+    <ip>195.15.132.209</ip>
+    <nav>no</nav>
+    <url>index.php?t=home</url>
+  </logs-05-03-202>
+<logs-05-03-202 id="2"><page>home</page><username>dev</username><log_time>05-03-2025 18:27:23</log_time><log_action>view</log_action><log_name>test</log_name><id_user>test</id_user><ip>195.15.132.209</ip><nav>no</nav><url>index.php?t=home</url></logs-05-03-202></logs-05-03-2025>

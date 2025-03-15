@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<themes>
+  <theme id="1">
+    <title>default</title>
+    <id_user>1</id_user>
+    <id_lang>3</id_lang>
+    <bg_color>bg-orange</bg_color>
+    <nav>open</nav>
+  </theme>
+<theme id="2"><title>default</title><id_user>1</id_user><id_lang>1</id_lang><bg_color>bg-orange</bg_color><nav>close</nav></theme><theme id="3"><title>user7</title><id_user>7</id_user><id_lang>2</id_lang><bg_color>bg-orange</bg_color><nav>open</nav></theme><theme id="4"><title>user2</title><id_user>2</id_user><id_lang>3</id_lang><bg_color>bg-orange</bg_color><nav>open</nav></theme></themes>
