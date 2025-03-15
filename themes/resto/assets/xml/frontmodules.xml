@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<frontmodules>
+  <frontmodule id="1">
+    <name>header</name>
+    <active>1</active>
+  </frontmodule>
+<frontmodule id="2"><name>home</name><active>1</active></frontmodule><frontmodule id="3"><name>footer</name><active>1</active></frontmodule></frontmodules>

@@ -1,0 +1,1 @@
+<?php use classes\Module as Module; class Banner extends Module {    public static function hookBanner($args)   {      $ret = "";      $ret.= "Hook: Banner";      return $ret;   }} ?>

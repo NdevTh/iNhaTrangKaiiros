@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fronthooks>
+  <fronthook id="1">
+    <name>Header</name>
+    <title>Header</title>
+    <description>never</description>
+    <position>1</position>
+    <id_module>1</id_module>
+  </fronthook>
+<fronthook id="2"><name>Home</name><title>Home</title><description>never</description><position>1</position><id_module>2</id_module></fronthook><fronthook id="3"><name>Footer</name><title>Footer</title><description>never</description><position>1</position><id_module>3</id_module></fronthook>
+  <fronthook id="4">
+    <name>Login</name>
+    <title>Login</title>
+    <description>never</description>
+    <position>1</position>
+    <id_module>0</id_module>
+  </fronthook>
+  <fronthook id="5"><name>CusDashboard</name><title>Client Side</title><description/><position>1</position><id_module>0</id_module></fronthook><fronthook id="6"><name>Registration</name><title>Registration</title><description>Registration</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="7"><name>AboutUs</name><title>About Us</title><description>About Us</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="8"><name>Contact</name><title>Contact</title><description>Contact</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="9"><name>Pricing</name><title>Pricing</title><description>Pricing</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="10"><name>Customer</name><title>Customer</title><description>Customer</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="11"><name>Quotation</name><title>Quotation</title><description>Quotation</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="12"><name>History</name><title>Purchasing History</title><description>Purchasing History</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="13"><name>StoryTelling</name><title>StoryTelling</title><description>StoryTelling</description><position>1</position><id_module>0</id_module></fronthook><fronthook id="14"><name>Product</name><title>Product</title><description>Product Sale</description><position>1</position><id_module>0</id_module></fronthook></fronthooks>

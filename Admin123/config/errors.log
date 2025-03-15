@@ -1,0 +1,61 @@
+[12-Mar-2025 22:33:26 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-12-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[12-Mar-2025 22:33:26 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[12-Mar-2025 22:33:26 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[12-Mar-2025 22:33:26 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[12-Mar-2025 22:33:26 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[12-Mar-2025 23:14:43 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-12-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[12-Mar-2025 23:14:43 Europe/Paris] PHP Warning:  Trying to access array offset on value of type null in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 32
+[15-Mar-2025 12:47:08 Europe/Paris] PHP Warning:  Undefined variable $theme in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/login.php on line 108
+[15-Mar-2025 12:47:46 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-15-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[15-Mar-2025 12:47:46 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 12:47:46 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 12:47:46 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 12:47:46 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 12:50:33 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-15-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[15-Mar-2025 12:50:33 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 12:50:33 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 12:50:33 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 12:50:33 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:45 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-15-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[15-Mar-2025 14:08:45 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:45 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:45 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:45 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:56 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-15-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[15-Mar-2025 14:08:56 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:56 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:56 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:08:56 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:09:02 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-15-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[15-Mar-2025 14:09:02 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:09:02 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:09:02 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:09:02 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-15-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Undefined array key "img_group" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Deprecated:  addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Undefined array key "site" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Deprecated:  addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Undefined array key 0 in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 92
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Undefined array key 0 in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 97
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Undefined array key "lang" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 213
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Undefined array key "categorie" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 235
+[15-Mar-2025 14:10:58 Europe/Paris] PHP Warning:  Undefined array key "parent" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 264
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  DOMDocument::save(config/log/logs-15-03-2025.xml): Failed to open stream: No such file or directory in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/XMLFile.php on line 340
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Deprecated:  dirname(): Passing null to parameter #1 ($path) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Attempt to read property "url" on array in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/init.php on line 77
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Undefined array key "img_group" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Deprecated:  addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Undefined array key "site" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Deprecated:  addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Bundles/classes/ObjectModel.php on line 92
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Undefined array key 0 in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 92
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Undefined array key 0 in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 97
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Undefined array key "lang" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 213
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Undefined array key "categorie" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 235
+[15-Mar-2025 14:15:40 Europe/Paris] PHP Warning:  Undefined array key "parent" in /var/www/vhosts/kaiiros.fr/inhatrang.kaiiros.fr/Admin123/modules/ProductSale/ProductSale.php on line 264
