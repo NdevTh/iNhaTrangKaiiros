@@ -6,7 +6,7 @@ class Footer extends Module {
         global $defaultBackground;
         $ret = "";
         //$ret.= "Hook: Footer";
-        $ret.= '<p>Design by A&T KAIIROS</p>';
+        $ret.= '<p>Design by A&T KAIIROS TM</p>';
         return $ret;
     }
 }
