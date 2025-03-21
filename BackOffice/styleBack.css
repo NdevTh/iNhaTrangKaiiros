@@ -1,0 +1,36 @@
+body {
+	color: white;
+}
+
+.coursBack {
+	color: white;
+}
+
+table {
+	border: solid 4px white;
+	margin-bottom: 5%;
+	border-radius: 2%;
+}
+
+th {
+	border-radius: 2%;
+	padding: 1%;
+}
+
+td {
+	border-radius: 2%;
+	padding: 1%;
+}
+
+textarea {
+	height: 15vh;
+	width: 91.5vw;
+}
+
+form {
+	margin-bottom: 5vh;
+}
+
+button {
+	width: 6vw;
+}
