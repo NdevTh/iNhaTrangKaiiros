@@ -3,12 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <title>Nha Trang - Accueil</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <div class="logo">🍜 Nha Trang</div>
-    <nav>
+    <a href="#" class="logo">
+      <img src="img/logo/logoJ.svg" alt="Logo Nha Trang">
+    </a>
+    
+    <nav id="nav-links">
       <ul>
         <li><a href="#">Nos produits</a></li>
         <li><a href="#">Qui sommes nous ?</a></li>
@@ -17,6 +20,12 @@
         <li><a href="#">🛒</a></li>
       </ul>
     </nav>
+  
+    <div class="burger" id="burger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
   </header>
 
   <section class="hero">
@@ -28,5 +37,107 @@
       <a href="#" class="btn">En savoir plus</a>
     </div>
   </section>
+  <section class="about">
+    <div class="about-container">
+      <div class="about-text">
+        <h2>Découvrez Nha Trang, Perle du Vietnam</h2>
+        <h3>Mon histoire</h3>
+        <p>
+          Chaque matin, j’accompagnais ma grand-mère au marché local. L’odeur des herbes fraîches, le bruit des vendeurs annonçant leur pêche du jour, tout contribuait à créer ma passion pour la cuisine vietnamienne. Aujourd’hui encore, je retrouve cette ambiance unique en préparant des plats typiques comme le <em>bánh canh chả cá</em> ou le <em>bánh xèo</em>.
+        </p>
+        <a href="#" class="btn-outline">En savoir plus</a>
+      </div>
+      <div class="about-image">
+        <img src="https://images.unsplash.com/photo-1610878180933-487f1fd3e1c7" alt="Marché vietnamien">
+      </div>
+    </div>
+  </section>
+  
+  <section class="products">
+    <h2>Nos produits</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1623199013763-16277d0d2a2d" alt="Nems au porc">
+        <div class="product-info">
+          <h3>Nems au porc</h3>
+          <p>Porc haché, vermicelles de riz, carotte, oignon, galettes de riz, ciboulette</p>
+          <strong>€1.60</strong> <span>/unité</span>
+        </div>
+      </div>
+      <!-- Répète autant de cartes que nécessaire -->
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1623199013763-16277d0d2a2d" alt="Nems au porc">
+        <div class="product-info">
+          <h3>Nems au porc</h3>
+          <p>Porc haché, vermicelles de riz, carotte, oignon, galettes de riz, ciboulette</p>
+          <strong>€1.60</strong> <span>/unité</span>
+        </div>
+      </div>
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1623199013763-16277d0d2a2d" alt="Nems au porc">
+        <div class="product-info">
+          <h3>Nems au porc</h3>
+          <p>Porc haché, vermicelles de riz, carotte, oignon, galettes de riz, ciboulette</p>
+          <strong>€1.60</strong> <span>/unité</span>
+        </div>
+      </div>
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1623199013763-16277d0d2a2d" alt="Nems au porc">
+        <div class="product-info">
+          <h3>Nems au porc</h3>
+          <p>Porc haché, vermicelles de riz, carotte, oignon, galettes de riz, ciboulette</p>
+          <strong>€1.60</strong> <span>/unité</span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="why-us">
+    <h2>Pourquoi nous choisir ?</h2>
+    <div class="reasons">
+      <div class="reason">
+        <img src="https://cdn-icons-png.flaticon.com/512/1046/1046890.png" alt="Authentique">
+        <p>Authentiques produits vietnamiens</p>
+      </div>
+      <div class="reason">
+        <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" alt="Qualité">
+        <p>Qualité garanti</p>
+      </div>
+      <div class="reason">
+        <img src="https://cdn-icons-png.flaticon.com/512/1046/1046890.png" alt="Authentique">
+        <p>Authentiques produits vietnamiens</p>
+      </div>
+      <div class="reason">
+        <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" alt="Qualité">
+        <p>Qualité garanti</p>
+      </div>
+    </div>
+  </section>
+  
+  <section class="cta-map">
+    <h2>Alors ça vous donne envie ?</h2>
+    <p>On est disponibles au marché de Weyersheim les samedis matin, venez pour déguster nos spécialités vietnamiennes</p>
+    <div class="map-container">
+      <iframe src="https://www.google.com/maps?q=Weyersheim&output=embed" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+  </section>
+  
+  <footer>
+    <div class="footer-content">
+      <div class="footer-logo">
+        <h3>🍜 I Nha Trang</h3>
+      </div>
+      <div class="footer-links">
+        <div><a href="#">Nos produits</a></div>
+        <div><a href="#">Qui sommes nous ?</a></div>
+        <div><a href="#">Contactez-nous</a></div>
+      </div>
+      <div class="footer-contact">
+        <p>+33 6 95 97 53 32</p>
+        <p>bonjour@hello.com</p>
+        <p>Contactez-nous</p>
+      </div>
+    </div>
+  </footer>
+  <script src="main.js"></script>
 </body>
 </html>
