@@ -1,0 +1,21 @@
+/inhatrang-backoffice
+│
+├── config/
+│   └── config.php
+│
+├── auth/
+│   └── login.php
+│
+├── produits/
+│   ├── add.php
+│   ├── edit.php
+│   └── delete.php
+│
+├── includes/
+│   ├── header.php
+│   └── footer.php
+│
+├── dashboard.php
+├── index.php          (redirige vers login ou dashboard)
+├── logout.php
+└── .htaccess
