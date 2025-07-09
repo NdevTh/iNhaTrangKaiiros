@@ -1,27 +1,3 @@
-/inhatrang-backoffice
-│
-├── config/
-│   └── config.php
-│
-├── auth/
-│   └── login.php
-│
-├── produits/
-│   ├── add.php
-│   ├── edit.php
-│   └── delete.php
-│
-├── includes/
-│   ├── header.php
-│   └── footer.php
-│
-├── dashboard.php
-├── index.php          (redirige vers login ou dashboard)
-├── logout.php
-└── .htaccess
-
-05 june 2025
-nouvelle structure arborescence 
 inhatrang/
 ├── index.php             ← Page d'accueil (dynamique)
 ├── config/

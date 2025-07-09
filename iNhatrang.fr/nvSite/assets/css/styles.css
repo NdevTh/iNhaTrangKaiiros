@@ -1,0 +1,251 @@
+/* Palette personnalisée */
+:root {
+  --green-dark: #859d7f;
+  --green-light: #d1e1b7;
+  --pink-light: #e1b9b2;
+  --pink-wood: #c0757d;
+  --raspberry: #a13652;
+  --white: #fefdf9;
+  --gray: #646464;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--white);
+  color: var(--gray);
+  scroll-behavior: smooth;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Header */
+header {
+  background-color: var(--white);
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid #eee;
+}
+
+header .logo img {
+  height: 50px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--gray);
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: var(--raspberry);
+}
+
+.burger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.burger span {
+  height: 3px;
+  width: 25px;
+  background: var(--gray);
+  border-radius: 2px;
+}
+
+/* Hero */
+.hero {
+  background: url('../images/hero-bg.jpg') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.hero-content {
+  color: white;
+  position: relative;
+  z-index: 2;
+  padding: 2rem;
+}
+
+.hero-logo {
+  height: 90px;
+  margin-bottom: 1rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  color: var(--green-light);
+}
+
+.hero h2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  background-color: var(--green-dark);
+  color: white;
+  padding: 0.8rem 1.6rem;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: var(--pink-wood);
+}
+
+/* Produits */
+.products {
+  padding: 4rem 0;
+  background-color: var(--green-light);
+  text-align: center;
+}
+
+.products h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: var(--raspberry);
+}
+
+.product-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.product-card {
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-info {
+  padding: 1rem;
+  text-align: left;
+}
+
+.product-info h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--raspberry);
+}
+
+.product-info p {
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.product-info strong {
+  font-size: 1.1rem;
+  color: var(--green-dark);
+}
+
+/* Footer */
+footer {
+  background-color: var(--green-dark);
+  color: white;
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-logo img {
+  height: 50px;
+}
+
+.footer-links a {
+  margin-right: 1rem;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact p {
+  font-size: 0.9rem;
+  margin: 0.2rem 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  nav ul {
+    display: none;
+    flex-direction: column;
+    background-color: var(--white);
+    position: absolute;
+    top: 70px;
+    right: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 1rem;
+  }
+
+  nav ul.show {
+    display: flex;
+  }
+
+  .burger {
+    display: flex;
+  }
+}
